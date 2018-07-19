@@ -1,4 +1,4 @@
-c<head>
+<head>
 <title> This is Detroit</title>
  <link rel="stylesheet" href="styles.css">
  <link href="<link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
@@ -8,8 +8,3 @@ c<head>
 <body>
    <h1> This is Detroit</h1>
    <div class="navbar">
-       <ul>
-          <li>
-           <a href = "history.html"> History</a></li
-           </li>
-           
